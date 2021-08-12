@@ -9,3 +9,8 @@ Ejecutar este comando antes de iniciar
 ```
 npm install
 ```
+
+Comando:
+```
+npm start
+```
